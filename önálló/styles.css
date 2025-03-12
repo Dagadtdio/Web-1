@@ -1,0 +1,24 @@
+.blue{
+    color: #fff321;
+    color: hsl(0,100%, 50% );
+}
+body{
+    color: rgb(255, 174, 2);
+    font-size: 20px;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid black;
+    background-color: red;
+}
+
+
+h1{
+    color: black;
+}
+h1{
+    color: red;
+}
